@@ -1,0 +1,20 @@
+.footer {
+    background-color: #8487fb;
+    border-radius: 10px 10px 0 0;
+    
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+
+
+
+
